@@ -2,6 +2,22 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/Lenovo/Desktop/Facade/src/facade/impl/GeneralPaymentError.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Facade/src/facade/impl/IPaymentFacade.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Facade/src/facade/impl/PaymentRequest.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Facade/src/facade/subsystems/email/EmailSystem.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Facade/src/facade/util/Card.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Facade/src/facade/subsystems/bank/TransferRequest.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Facade/src/facade/impl/PaymentResponse.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Facade/src/facade/subsystems/biller/BillingSystem.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Facade/src/facade/FacadeMain.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Facade/src/facade/subsystems/crm/CRMSystem.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Facade/src/facade/impl/OnlinePaymentFacadeImpl.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Facade/src/facade/subsystems/bank/BankSystem.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Facade/src/facade/subsystems/biller/BillingPayRequest.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Facade/src/facade/util/Customer.java</file>
+            <file>file:/C:/Users/Lenovo/Desktop/Facade/src/facade/util/OnMemoryDataBase.java</file>
+        </group>
     </open-files>
 </project-private>
