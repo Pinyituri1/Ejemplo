@@ -21,7 +21,7 @@ public class FacadeMain {
     public static void main(String[] args) {
         PaymentRequest request = new PaymentRequest();
         request.setAmmount(500);
-        request.setCardExpDate("10/2015");
+        request.setCardExpDate("10/2020");
         request.setCardName("Oscar Blancarte");
         request.setCardNumber("1234567890123456");
         request.setCardSecureNum("345");
