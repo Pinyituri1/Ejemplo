@@ -20,9 +20,9 @@ public class FacadeMain {
      */
     public static void main(String[] args) {
         PaymentRequest request = new PaymentRequest();
-        request.setAmmount(500);
+        request.setAmmount(100);
         request.setCardExpDate("10/2020");
-        request.setCardName("Oscar Blancarte");
+        request.setCardName("Juan Trujillo");
         request.setCardNumber("1234567890123456");
         request.setCardSecureNum("345");
         request.setCustomerId(1L);
@@ -35,5 +35,5 @@ public class FacadeMain {
         }
         
     }
-    
+    //JUAN FERNANDO TRUJILLO RIVERA
 }
